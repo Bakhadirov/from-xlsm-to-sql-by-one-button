@@ -9,3 +9,6 @@ Script from xlsm to sql by one button
 Необходимо установить следующие библиотеки: pandas, sqlalchemy
 В файле configure.ini для подключения к необходимой базе данных необходимо в "name" прописать необходимые данные (логин, пароль)
 
+To download:
+https://github.com/Bakhadirov/from-xlsm-to-sql-by-one-button/releases/tag/alpha 
+
